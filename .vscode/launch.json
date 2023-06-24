@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/maxtka4/Desktop/Прога С++/Шеблаев/forth_term_cpp/GC",
+      "program": "/Users/maxtka4/Desktop/Прога С++/Шеблаев/forth_term_cpp/GC/build/Debug/outDebug"
+    }
+  ]
+}
