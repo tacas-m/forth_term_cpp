@@ -41,4 +41,5 @@ int main() {
 
     sort(color.begin(), color.end());
 	cout << *(color.end() - 1)<<endl;
+	file.close();
 }
