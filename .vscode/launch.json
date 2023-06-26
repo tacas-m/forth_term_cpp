@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/maxtka4/Desktop/Прога С++/Шеблаев/forth_term_cpp/GC",
-      "program": "/Users/maxtka4/Desktop/Прога С++/Шеблаев/forth_term_cpp/GC/build/Debug/outDebug"
+      "cwd": "/Users/maxtka4/Desktop/Прога С++/Шеблаев/forth_term_cpp/KS",
+      "program": "/Users/maxtka4/Desktop/Прога С++/Шеблаев/forth_term_cpp/KS/build/Debug/outDebug"
     }
   ]
 }
